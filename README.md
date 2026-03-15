@@ -1,7 +1,7 @@
 # Aorta-Central-Path-Extraction
 This repository contains a Python-based algorithm implemented in a Jupyter notebook to extract the central path of the aorta from a 3D volume dataset. The central path is essential in medical image analysis, particularly in vascular modeling, surgical planning, and hemodynamic simulations.
 
-# Data base
+# Dataset
 The database used to develop the aortic central path generation algorithm was downloaded from the public “Vascular Model Repository” (https://vascularmodel.com). From a total set of 275 models were selected 35 images of a healthy aorta, taken using magnetic resonance imaging and computed tomography. 2 models come from rabbits, the rest of the aortas are of human origin, divided into 6 female and 16 male (the rest unspecified). All images also contain a perfect central path, which serves as a reference to evaluate the effectiveness and accuracy of the algorithm.
 
 # Requirements
